@@ -10,7 +10,7 @@ You can interact with the live dashboard here:
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/b47446aa-7a65-4d88-91a7-adf998d15dee)
 
@@ -36,7 +36,7 @@ You can interact with the live dashboard here:
 
 ---
 
-## 🧾 Dataset Information
+##  Dataset Information
 
 - **Source:** Kaggle – Superstore Dataset  
 - **Dataset Link:** https://www.kaggle.com/datasets/bitricks/superstore-dataset
@@ -71,7 +71,7 @@ In Power BI:
 
 ---
 
-## 📊 Dashboard Components
+##  Dashboard Components
 
 ### **1. KPI Cards**
 - Total Sales  
