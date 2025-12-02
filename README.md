@@ -1,7 +1,7 @@
 #  F&B Customer Analytics Dashboard – SQL + Power BI
 
 A complete end-to-end analytics project using **SQL for data preparation** and **Power BI for interactive reporting**.
-It analyzes customer behavior, revenue performance, product contribution, and churn/retention patterns for a fictional F&B business.
+It analyzes customer behavior, revenue performance, product contribution, and churn/retention patterns for a F&B business.
 
 🔗 **Live Power BI Dashboard:**                                                    
 [https://app.powerbi.com/view?r=eyJrIjoiMGM3YWIyNTUtMmYyYi00NzhhLWI1NDgtYzIzMTM3NmIxOThlIiwidCI6IjhlZjRhZjJkLTkwY2YtNGIzMS1hMTI4LTNmYWE5M2EzMmJjOCIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiMGM3YWIyNTUtMmYyYi00NzhhLWI1NDgtYzIzMTM3NmIxOThlIiwidCI6IjhlZjRhZjJkLTkwY2YtNGIzMS1hMTI4LTNmYWE5M2EzMmJjOCIsImMiOjEwfQ%3D%3D)
